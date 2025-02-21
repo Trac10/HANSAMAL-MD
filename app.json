@@ -7,7 +7,7 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "HANSAMAL-MD=ApB0CJ6I#4L0tsQp2sTErzuxb7A029TmlpnW88jljswKToZigGoo.",
+      "description": "HANSAMAL-MD=Uk4lkaIA#UNOr49b98aq0HedzAH8FbJqO7DsktFm2Jf30ejV3hJ8",
       "required": true
     },
     "GITHUB_AUTH_TOKEN": {
